@@ -1,5 +1,5 @@
-# QubyteCorp
+# Qubyte
 
-A Hungarian quantum technology consulting company.
+A (quantum)technology consulting company.
 
-We provide expert consulting services in quantum computing and emerging quantum technologies.
+We provide expert consulting services in emerging technologies.
